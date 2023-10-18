@@ -4,6 +4,7 @@
 #include "main.h"
 
 /**
+ * Done by Ibrahim and Segun
  * main - Entry point
  *
  * Return: Always 0
