@@ -20,6 +20,7 @@
 #define S_SHORT 1
 
 /**
+ * Done by Ibrahim and Segun
  * struct fmt - Struct op
  *
  * @fmt: The format.
