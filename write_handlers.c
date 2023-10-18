@@ -2,6 +2,7 @@
 
 /************************* WRITE HANDLE *************************/
 /**
+ * Done by Ibrahim and Segun
  * handle_write_char - Prints a string
  * @c: char types.
  * @buffer: Buffer array to handle print
