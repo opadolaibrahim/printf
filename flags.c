@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * Done by Ibrahim and Segun 
  * get_flags - Calculates active flags
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
